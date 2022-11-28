@@ -1,0 +1,243 @@
+
+body{    
+    background-color: #fff;
+}
+
+.container{
+    max-width: 1440px;
+    padding: 10% 10%;
+    margin: 0 auto;
+}
+
+#Fir{
+    display: flex;
+    flex-direction: row;
+}
+
+#Beg{
+    margin: 20px;
+    margin-bottom: 20px;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #6B6B6C;
+    margin-left: 0;
+}
+
+#more{
+    margin: 20px ;
+    font-size: 16px;
+    font-family: 'PT Sans';
+    text-decoration: none;
+    color: #363738;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #FFCE50;
+    margin-left: 0;
+}
+
+h1{
+    font-family: 'Exo 2';
+    color: #363738;
+    font-size: 49px;
+    margin: 20px;
+    margin-left: 0;
+}
+
+#Truck img{
+    display: flex;
+    justify-content: end;
+    position: relative;
+
+}
+
+#Truck{
+    width: 0;
+}
+
+#Rectangle{
+    width: 815px;
+    left: 335px; top: -16%;
+}
+
+#Trucks{    
+    width: 700px;
+    height: 600px;
+    left: 220px; top: -70%;
+}
+
+#inf{
+    position: relative;
+    display: flex;
+    justify-content: row;
+    justify-content: space-around;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+    margin-top: -70%;
+}
+
+#find{
+    padding: 3% 10% 2%;
+    margin-left: -4%;
+    border-right: 1px solid #D7D7DD;
+}   
+
+#find2{
+    padding: 3% 10% 2%;
+    margin-left: -2%;
+    border-right: 1px solid #D7D7DD;
+}
+
+#find3{
+    padding: 3% 10% 2%;
+    margin-left: -2%;
+}
+
+#f1{
+    font-family: 'Exo 2';
+    color: #363738;
+}
+
+#f11{
+    font-family: 'PT Sans';
+    color: #6B6B6C;
+}
+
+#obj{
+    font-family: 'Exo 2';
+    color: #363738;
+    font-size: 49px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 0;
+}
+
+#d{
+    display: flex;
+    justify-content: row;
+    background: #FFFFFF;
+    width: 800px;
+    height: 200px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.12);
+    margin: 20px;
+    border-radius: 10px;
+    margin-right: 0;
+    margin-left: 0;
+}
+    
+#radbut{
+    width: 24px;
+    height: 24px;
+    margin: 50px;
+    margin-left: 50px;
+}
+
+#v1{
+    font-family: 'Exo 2';
+    color: #363738;
+    margin-top: 50px;
+}
+
+#v{
+    margin-bottom: -54%;
+}
+
+#vote{
+    margin-left: 1000px;
+    margin-top: -48%;
+}
+
+#score{
+    width: 250px;
+    display: flex;
+    justify-content: row;
+    align-items: flex-end;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #FFCE50;
+}
+
+#v2{
+    font-family: 'Exo 2';
+    color: #363738;
+    margin: 0;
+}
+
+#p1{
+    font-family: 'Exo 2';
+    color: #6B6B6C;
+    margin-bottom: 8px;
+}
+
+#Anket{ 
+    margin-top: 56%;
+}   
+
+#WhyUs{
+    margin-top: 42%;
+}   
+
+#whyimg{
+    margin-left: -232px;
+    width: 1670px;  
+}
+
+#why{
+    display: flex;
+    justify-content: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+#i3{
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+#wh1{
+    position: relative;
+    display: flex;
+    justify-content: row;
+    justify-content: space-around;
+}
+
+#work{
+    font-family: 'Exo 2';
+    color: #6B6B6C;
+    margin-top: 8%;
+}
+
+
+#w{
+    background: #FFFFFF;
+    width: 393px;
+    height: 440px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.12);
+    margin: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#w2{
+    font-family: 'Exo 2';
+    color: #363738;
+    margin-left: 40px;
+}
+
+#w3{
+    font-family: 'Exo 2';
+    color: #363738;
+    margin-left: 40px;
+    width: 90px;
+    border-bottom: 3px solid #FFCE50;
+    padding-bottom: 6px;
+}
+
+#w22{
+    font-family: 'PT Sans';
+    color: #6B6B6C;
+    margin-left: 40px;
+}
