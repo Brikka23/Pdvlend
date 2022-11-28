@@ -1,0 +1,63 @@
+@media (max-width: 1440px){
+    .container{
+        max-width: 768px;
+    }
+}
+
+@media (max-width: 768px){
+    .container{
+        max-width: 375px;
+    }
+}
+
+@media (max-width: 375px){
+    .container{
+        max-width: none;
+    }
+
+    #Fir{
+        display: flex;
+        justify-content: column;
+    }
+
+    h1{
+        position: absolute;
+        color: white;
+        width: 400px;
+        margin-left: 30%;
+        font-size: 98px;
+        z-index: 1;
+    }
+
+    #Beg{
+        position: relative;
+        z-index: 1;
+        color: white;
+        margin-left: 35%;
+        font-size: 128%;
+        margin-top: 150%;
+        width: 200%;
+    }
+
+    #Rectangle{
+        width: 1555px;
+        height: 3000px;
+        left: -400px;
+    }
+
+    #Trucks {
+        border-radius: 10%;
+        width: 1200px;
+        height: 800px;
+        left: -190px;
+        margin-top: 1600px;
+
+    }
+
+    #inf{
+        flex-direction: column;
+        width: 1340px;
+    }
+
+    
+}
